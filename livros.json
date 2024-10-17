@@ -1,0 +1,73 @@
+[
+    {
+      "titulo": "To Kill a Mockingbird",
+      "autor": "Harper Lee",
+      "editora": "J. B. Lippincott & Co.",
+      "ano": 1960,
+      "isbn": "9780060935467"
+    },
+    {
+      "titulo": "The Catcher in the Rye",
+      "autor": "J.D. Salinger",
+      "editora": "Little, Brown and Company",
+      "ano": 1951,
+      "isbn": "9780316769488"
+    },
+    {
+      "titulo": "Pride and Prejudice",
+      "autor": "Jane Austen",
+      "editora": "Townsend & Brothers",
+      "ano": 1813,
+      "isbn": "9781593082386"
+    },
+    {
+      "titulo": "The Great Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "editora": "Charles Scribner's Sons",
+      "ano": 1925,
+      "isbn": "9780743273565"
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "editora": "Secker and Warburg",
+      "ano": 1949,
+      "isbn": "9780451524935"
+    },
+    {
+      "titulo": "Animal Farm",
+      "autor": "George Orwell",
+      "editora": "Secker and Warburg",
+      "ano": 1945,
+      "isbn": "9780451526342"
+    },
+    {
+      "titulo": "The Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "editora": "George Allen & Unwin",
+      "ano": 1937,
+      "isbn": "9780544036504"
+    },
+    {
+      "titulo": "The Lord of the Rings",
+      "autor": "J.R.R. Tolkien",
+      "editora": "George Allen & Unwin",
+      "ano": 1954,
+      "isbn": "9780544036511"
+    },
+    {
+      "titulo": "Jane Eyre",
+      "autor": "Charlotte Bronte",
+      "editora": "Smith, Elder & Co.",
+      "ano": 1847,
+      "isbn": "9781451661766"
+    },
+    {
+      "titulo": "Wuthering Heights",
+      "autor": "Emily Bronte",
+      "editora": "Thomas Cautley Newby",
+      "ano": 1847,
+      "isbn": "9781451662370"
+    }
+  ]
+  
